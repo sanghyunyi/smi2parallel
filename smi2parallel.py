@@ -11,7 +11,6 @@ __author__ = "SangHyun Yi <sangyi0914@gmail.com>"
 __date__ = "2016/06/15"
 __version__ = "1.0.0"
 __version_info__ = (1, 0, 0)
-__license__ = "GCQVista's NDA"
 
 ###################################################################################################
 import chardet #@UnresolvedImport
